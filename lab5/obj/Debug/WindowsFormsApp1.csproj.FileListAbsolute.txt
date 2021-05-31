@@ -1,0 +1,54 @@
+C:\Users\3ayts\OneDrive\Рабочий стол\ВолГУ\Лаба С#\лаба 5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\3ayts\OneDrive\Рабочий стол\ВолГУ\Лаба С#\лаба 5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\3ayts\OneDrive\Рабочий стол\ВолГУ\Лаба С#\лаба 5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\3ayts\OneDrive\Рабочий стол\ВолГУ\Лаба С#\лаба 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\3ayts\OneDrive\Рабочий стол\ВолГУ\Лаба С#\лаба 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyButton.resources
+C:\Users\3ayts\OneDrive\Рабочий стол\ВолГУ\Лаба С#\лаба 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\3ayts\OneDrive\Рабочий стол\ВолГУ\Лаба С#\лаба 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\3ayts\OneDrive\Рабочий стол\ВолГУ\Лаба С#\лаба 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\3ayts\OneDrive\Рабочий стол\ВолГУ\Лаба С#\лаба 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\3ayts\OneDrive\Рабочий стол\ВолГУ\Лаба С#\лаба 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\3ayts\OneDrive\Рабочий стол\ВолГУ\Лаба С#\лаба 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\dan-3\Desktop\лаба 5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\dan-3\Desktop\лаба 5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\dan-3\Desktop\лаба 5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\dan-3\Desktop\лаба 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\dan-3\Desktop\лаба 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\dan-3\Desktop\лаба 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyButton.resources
+C:\Users\dan-3\Desktop\лаба 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\dan-3\Desktop\лаба 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\dan-3\Desktop\лаба 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\dan-3\Desktop\лаба 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+\\10.10.4.50\StudentData\ПИ\ПИ-181\Щурин Денис\lab 5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+\\10.10.4.50\StudentData\ПИ\ПИ-181\Щурин Денис\lab 5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+\\10.10.4.50\StudentData\ПИ\ПИ-181\Щурин Денис\lab 5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+\\10.10.4.50\StudentData\ПИ\ПИ-181\Щурин Денис\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+\\10.10.4.50\StudentData\ПИ\ПИ-181\Щурин Денис\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+\\10.10.4.50\StudentData\ПИ\ПИ-181\Щурин Денис\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyButton.resources
+\\10.10.4.50\StudentData\ПИ\ПИ-181\Щурин Денис\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\10.10.4.50\StudentData\ПИ\ПИ-181\Щурин Денис\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\10.10.4.50\StudentData\ПИ\ПИ-181\Щурин Денис\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\10.10.4.50\StudentData\ПИ\ПИ-181\Щурин Денис\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+\\10.10.4.50\StudentData\ПИ\ПИ-181\Щурин Денис\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+\\10.10.4.50\StudentData\ПИ\ПИ-192\Большаков\LabX\lab 5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+\\10.10.4.50\StudentData\ПИ\ПИ-192\Большаков\LabX\lab 5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+\\10.10.4.50\StudentData\ПИ\ПИ-192\Большаков\LabX\lab 5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+\\10.10.4.50\StudentData\ПИ\ПИ-192\Большаков\LabX\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+\\10.10.4.50\StudentData\ПИ\ПИ-192\Большаков\LabX\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+\\10.10.4.50\StudentData\ПИ\ПИ-192\Большаков\LabX\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyButton.resources
+\\10.10.4.50\StudentData\ПИ\ПИ-192\Большаков\LabX\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\10.10.4.50\StudentData\ПИ\ПИ-192\Большаков\LabX\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\10.10.4.50\StudentData\ПИ\ПИ-192\Большаков\LabX\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\10.10.4.50\StudentData\ПИ\ПИ-192\Большаков\LabX\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+\\10.10.4.50\StudentData\ПИ\ПИ-192\Большаков\LabX\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\Вуз Пи 192\2курс_2симетра\LabX\lab 5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Вуз Пи 192\2курс_2симетра\LabX\lab 5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Вуз Пи 192\2курс_2симетра\LabX\lab 5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Вуз Пи 192\2курс_2симетра\LabX\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\Вуз Пи 192\2курс_2симетра\LabX\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Вуз Пи 192\2курс_2симетра\LabX\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyButton.resources
+F:\Вуз Пи 192\2курс_2симетра\LabX\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Вуз Пи 192\2курс_2симетра\LabX\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Вуз Пи 192\2курс_2симетра\LabX\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Вуз Пи 192\2курс_2симетра\LabX\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Вуз Пи 192\2курс_2симетра\LabX\lab 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
